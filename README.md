@@ -1,2 +1,2 @@
 # Julekalendere_2019
-Kodekalendere 2019 - [www.npst.no](NPST) og [www.julekalender.knowit.no](Knowit)
+Kodekalendere 2019 - [NPST](www.npst.no) og [Knowits kodekalender](julekalender.knowit.no)
