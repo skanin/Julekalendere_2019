@@ -1,6 +1,0 @@
-build
-dist
-version.py
-.coverage
-*.extracted
-*.pyc
